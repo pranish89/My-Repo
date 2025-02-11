@@ -1,6 +1,4 @@
-first file
-jjj'
-sds
+econd commit
+For squashing purpose
+third commit
 
-dsds
-updated in github
