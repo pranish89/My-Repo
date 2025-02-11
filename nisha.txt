@@ -1,0 +1,5 @@
+this is for braching purpose
+to check the squash
+second commit
+:wq
+
