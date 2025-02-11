@@ -1,4 +1,5 @@
 econd commit
 For squashing purpose
 third commit
+I have added from git command line.
 I have added from github veriosn2
