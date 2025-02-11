@@ -1,4 +1,4 @@
 econd commit
 For squashing purpose
 third commit
-I have added from github
+I have added from git command line.
